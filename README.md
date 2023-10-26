@@ -1,3 +1,3 @@
 # Projeto-DIOme_landingPage
 
-[Clique aqui] para acessar como ficou o Landing Page.
+[Clique aqui](https://guilhermebpinheiro.github.io/Projeto-DIOme_landingPage/) para acessar como ficou o Landing Page.
